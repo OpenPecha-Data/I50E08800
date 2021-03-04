@@ -1,15 +1,16 @@
-id: opecha:P000575
+id: P000575
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4467
   title: སོ་སོར་ཐར་པའི་མདོ
-  volume:
+  author: ''
+  volumes:
     d3fcd8be22a2498282b71ad9fe2b0e3f:
       image_group_id: I1KG4489
       title: Volume 1 of so sor thar pa'i mdo
       volume_number: 1
       total_pages: 110
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སོ་སོར་ཐར་པའི་མདོ
   author: ''
